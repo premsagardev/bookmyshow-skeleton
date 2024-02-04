@@ -1,4 +1,4 @@
-package com.scaler.bookmyshowsept23.models;
+package com.psdev.bookmyshowskelton.models;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.ManyToOne;

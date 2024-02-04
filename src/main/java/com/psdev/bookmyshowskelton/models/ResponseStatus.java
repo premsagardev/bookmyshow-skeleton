@@ -1,4 +1,4 @@
-package com.scaler.bookmyshowsept23.models;
+package com.psdev.bookmyshowskelton.models;
 
 public enum ResponseStatus {
     SUCCESS,
